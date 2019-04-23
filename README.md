@@ -4,9 +4,9 @@ Compton window manager configuration
 Install Compton:
 To do that, run the following commands in a terminal window. These will add the official Compton PPA [3] and then install it:
 
-$ sudo apt-add-repository ppa:richardgv/compton
-$ sudo apt-get update
-$ sudo apt-get install compton
+$ sudo apt-add-repository ppa:richardgv/compton;
+$ sudo apt-get update;
+$ sudo apt-get install compton;
 
 Once it’s installed, create a text file in ~/.config/ called compton.conf
 
